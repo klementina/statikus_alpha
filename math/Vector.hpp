@@ -13,6 +13,7 @@ public:
 	Vector(void);
 	Vector(T*, unsigned int);
 	Vector(T);
+
 	~Vector(void);
 
 	// Accessors
